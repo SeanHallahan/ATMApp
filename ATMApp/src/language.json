@@ -1,0 +1,22 @@
+
+
+"english":{
+ "language":"Select Language",
+ "deposit":"Deposit",
+ "withdraw":"Withdraw",
+ "balance":"Balance"
+ }
+
+"spanish":{
+    "language":"Select Spanish",
+    "deposit" : "Spanish Deposit",
+    "withdraw" : "Spanish Withdraw",
+    "balance" : "Spanish Balance"
+}
+
+"french":{
+    "language": "Select French",
+    "deposit" : "French Deposit",
+    "withdraw" : "French Withdraw",
+    "balance" : "French Balance"
+}
